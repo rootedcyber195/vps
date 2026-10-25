@@ -1,5 +1,5 @@
-sudo apt update -qqq && sudo apt upgrade -qqq -y
-sudo apt install openssh -y
+sudo apt update
+sudo apt install -y openssh-client
 ls -a
 cd .ssh
 ls /
