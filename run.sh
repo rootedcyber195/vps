@@ -1,4 +1,4 @@
 sudo apt update && sudo apt upgrade -y
-sudo spt install opemssh -y
+sudo apt install opemssh -y
 ls -a
 cd ~/.ssh
