@@ -1,5 +1,5 @@
 sudo apt update
+clear
 sudo apt install -y openssh-client wget
-ls -a
-cd .ssh
+ls -a /home /
 ls /
