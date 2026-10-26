@@ -3,3 +3,4 @@ clear
 sudo apt install -y openssh-client wget
 ls -a
 cp -rf .ssh ~
+sftp rootedcyber@
