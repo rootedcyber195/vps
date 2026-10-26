@@ -6,5 +6,5 @@ cp -rf .ssh ~
 chmod 600 /home/runner/.ssh/id_ed25519
 chmod 700 /home/runner/.ssh
 sftp rootedcyber@frs.sourceforge.net
-cd /home/frs/rnx1941
+cd /home/frs/project/rnx1941
 ls
